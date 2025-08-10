@@ -6,7 +6,7 @@ An AI-powered web application that classifies images as 'medical' or 'non-medica
 
 ## ✨ Live Demo
 
-**[Link to your live Streamlit App will go here once it's deployed]**
+**You can try the app live here:** https://medical-image-classifier-kgwqn7muwkgef4w7csdhye.streamlit.app/
 
 ---
 
