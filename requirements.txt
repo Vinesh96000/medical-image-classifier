@@ -1,6 +1,7 @@
 # requirements.txt
 
 torch
+torchvision
 transformers
 streamlit
 scikit-learn
